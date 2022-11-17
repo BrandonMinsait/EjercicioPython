@@ -166,4 +166,4 @@ while intentos<4:
         intentos = intentos + 1
 if str(intentos)=="4":
     if str(flag)=="0":
-        print("\n\t\t\t\tNumero de intentos excedido")
+        print("\n\t\t\t\tNumero de intentos excedido") 
