@@ -4,7 +4,7 @@ class Nip:
     _nip = 0
 
     def __init__(self):
-        self._nip = 1234
+        self._nip = 1235
 
     def verificarNIP(self, passw):
         if str(passw) == str(self._nip):
